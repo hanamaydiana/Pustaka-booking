@@ -98,7 +98,7 @@ $k['kategori'];?></option>
  <?php } ?>
  </select>
  </div>
- <div class="form-group"
+ <div class="form-group">
  <input type="text" class="form-control form-control-user" id="pengarang" name="pengarang" placeholder="Masukkan 
 nama pengarang">
  </div>
