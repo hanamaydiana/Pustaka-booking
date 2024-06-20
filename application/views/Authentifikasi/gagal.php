@@ -3,7 +3,7 @@
 <head>
  <meta charset="utf-8">
  <meta http-equiv="X-UA-Compatible" content="IE=edge">
- <meta name="viewport" content="width=device-width, initialscale=1, shrink-to-fit=no">
+ <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
  <meta name="description" content="">
  <meta name="author" content="">
  <title>Gagal Aktifasi Akun </title>
@@ -48,9 +48,9 @@ class="fas fa-angle-up"></i></a>
  <script src="<?= base_url('assets/'); 
 ?>vendor/bootstrap/js/bootstrap.bundle.min.j s"></script>
  <!-- Core plugin JavaScript -->
- <script src="<?= base_url('assets/'); ?>vendor/jqueryeasing/jquery.easing.min.j s"></script>
+ <script src="<?= base_url('assets/'); ?>vendor/jquery-easing/jquery.easing.min.j s"></script>
  <!-- Custom scripts for all pages-->
- <script src="<?= base_url('assets/'); ?>js/sb-admin2.min.js"></script>
+ <script src="<?= base_url('assets/'); ?>js/sb-admin-2.min.js"></script>
  <script>
  $('.alert-message').alert().delay(3500).slideUp('slow');
  </script>
